@@ -14,14 +14,14 @@ tidak akan melakukan kecurangan seperti yang telah di spesifikasikan Aamiin.
 1. Mulai Program
    - Inisialisasi array kosong untuk menyimpan data barang nya.
 2. Tampilkan menu utama
+   0. Keluar
    1. Tambah data
    2. Tampilkan data
    3. Update data
    4. Hapus data
    5. Cari data
-   0. Keluar
-3. User diminta masukkan menu mana yang ingin digunakan
-4. Switch case
+4. User diminta masukkan menu mana yang ingin digunakan
+5. Switch case
    - Jika 1 (tammbah data)
      - Input ID
      - Cek apakah ID sudah tersebut sudah digunakan atau belum

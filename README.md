@@ -2,7 +2,7 @@
 
 ## JANJI
 Saya Anas Miftakhul Falah dengan 2410865 mengerjakan tugas praktikum 1
-dalam mata kuliah dasar pemrograman untuk keberkahan-Nya maka saya
+dalam mata kuliah DPBO untuk keberkahan-Nya maka saya
 tidak akan melakukan kecurangan seperti yang telah di spesifikasikan Aamiin.
 
 ## DESIGN
